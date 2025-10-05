@@ -11,4 +11,4 @@ Modificar solamente la instancia de la base de datos. El sistema tiene una estru
 
 Además usa una estructura de consultas bastante fácil de entender.
 
-Esta es una demo pública, por temas de seguridad no se agregó la carpeta del core.
+Esta es una demo pública, por temas de seguridad no se agregó la carpeta del core ni los controladores. Pero puedes contactar a mi correo krollynk@gmail.com para poder explicarte cómo funciona y que puedas replicarlo adaptado a tu idea o necesidad.
